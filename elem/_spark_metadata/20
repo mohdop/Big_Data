@@ -1,0 +1,3 @@
+v1
+{"path":"file:///C:/BigData/tpPython/elem/part-00000-d0107e89-91b6-440e-94ca-2a14876eb882-c000.snappy.parquet","size":1788,"isDir":false,"modificationTime":1708262828448,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/BigData/tpPython/elem/part-00001-0baa9c0b-5821-4a09-a576-7f1cdab0680b-c000.snappy.parquet","size":5324,"isDir":false,"modificationTime":1708262828453,"blockReplication":1,"blockSize":33554432,"action":"add"}
